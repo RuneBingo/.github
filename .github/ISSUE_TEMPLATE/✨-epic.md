@@ -3,8 +3,8 @@ name: "✨ Epic"
 about: Track a large feature or project with multiple related tasks.
 title: "[Epic] <Short Epic Title>"
 labels: ''
-assignees: raphpion
-
+assignees: 
+type: Epic
 ---
 
 ## 🎯 Goal
