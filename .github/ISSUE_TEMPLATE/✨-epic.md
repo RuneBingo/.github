@@ -1,10 +1,10 @@
 ---
 name: "✨ Epic"
-about: "Track a large feature or project with multiple related tasks."
-title: "<Short Epic Title>"
-labels: []
-assignees: []
-type: epic
+about: Track a large feature or project with multiple related tasks.
+title: "[Epic] <Short Epic Title>"
+labels: ''
+assignees: 
+type: Epic
 ---
 
 ## 🎯 Goal
