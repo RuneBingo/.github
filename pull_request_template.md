@@ -1,10 +1,10 @@
-<!-- Change XXXX for the ticket number -->
+<!-- Change XXXX for the issue number -->
 
-[![Jira Ticket](https://img.shields.io/badge/Jira-RB--XXXX-0052CC?style=flat&logo=jira&logoColor=white&labelColor=0052CC&color=303030)](https://runebingo.atlassian.net/browse/RB-XXXX)
+[![Issue](https://img.shields.io/github/issues/detail/title/RuneBingo/RuneBingo/XXXX?label=%23XXXX&color=blue)](https://github.com/RuneBingo/RuneBingo/issues/XXXX)
 
 ## Release Notes
 
-<!-- Add the changelog entry here, following this template if applicable -->
+<!-- This is only required for a PR that goes into main. Add the changelog entry here, following this template if applicable. -->
 
 > **Title**: a title that makes sense for a non-developer reader, if possible
 > **Description**: a brief description of the change
