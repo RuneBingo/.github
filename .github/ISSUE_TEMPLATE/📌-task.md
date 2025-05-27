@@ -1,7 +1,7 @@
 ---
 name: "📌 Task"
 about: "A specific work item to complete"
-title: "[Task] <Short Task Title>"
+title: "<Short Task Title>"
 labels: []
 assignees: []
 type: task
