@@ -1,7 +1,7 @@
 ---
 name: "✨ Epic"
 about: Track a large feature or project with multiple related tasks.
-title: "[Epic] <Short Epic Title>"
+title: "<Short Epic Title>"
 labels: ''
 assignees: 
 type: Epic
