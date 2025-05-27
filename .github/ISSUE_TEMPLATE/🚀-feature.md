@@ -1,7 +1,7 @@
 ---
 name: "🚀 Feature"
 about: "A new capability or enhancement"
-title: "[Feature] <Short Feature Title>"
+title: "<Short Feature Title>"
 assignees: []
 type: feature
 ---
