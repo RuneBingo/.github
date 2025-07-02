@@ -9,19 +9,22 @@
 > **Title**: a title that makes sense for a non-developer reader, if possible
 > **Description**: a brief description of the change
 
-## Screenshots
+<details>
+<summary><h2>Screenshots</h2></summary>
 
-<!-- Add screenshots, if applicable -->
+<!-- Add screenshots, if applicable -->  
 
-## Other relevant information
+</details>
+
+## Description
 
 <!-- Add any other relevant information here, that will help your reviewer understand more your code. -->
 
-## How to test
+### How to test
 
 <!-- Add instructions on how to test your code -->
 
-## Test cases
+### Test cases
 
 <!-- Add test cases that cover your changes -->
 
