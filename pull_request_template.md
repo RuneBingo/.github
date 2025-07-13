@@ -2,12 +2,16 @@
 
 [![Issue](https://img.shields.io/github/issues/detail/title/RuneBingo/RuneBingo/XXXX?label=%23XXXX&color=blue)](https://github.com/RuneBingo/RuneBingo/issues/XXXX)
 
+<!-- Temporary disabled until we release the v1.0:
+
 ## Release Notes
 
-<!-- This is only required for a PR that goes into main. Add the changelog entry here, following this template if applicable. -->
+# This is only required for a PR that goes into main. Add the changelog entry here, following this template if applicable.
 
 > **Title**: a title that makes sense for a non-developer reader, if possible
 > **Description**: a brief description of the change
+
+-->
 
 <details>
 <summary><h2>Screenshots</h2></summary>
